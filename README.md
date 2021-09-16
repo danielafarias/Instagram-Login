@@ -6,7 +6,8 @@
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/danielafarias/Instagram-Login?style=for-the-badge)
 ![Github Watchers](https://img.shields.io/github/watchers/danielafarias/Instagram-Login?style=for-the-badge)
 
-![Instagram](https://user-images.githubusercontent.com/79869120/133559029-5b0821dd-c6f8-405d-9388-7cf3e8b9a365.png)
+![Instagram](https://user-images.githubusercontent.com/79869120/133559156-4c261c29-609d-4fbf-8082-c9acdaf46084.png)
+
 
 
 
