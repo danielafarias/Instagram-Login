@@ -6,7 +6,8 @@
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/danielafarias/Instagram-Login?style=for-the-badge)
 ![Github Watchers](https://img.shields.io/github/watchers/danielafarias/Instagram-Login?style=for-the-badge)
 
-![Instagram](url)
+![Instagram](https://user-images.githubusercontent.com/79869120/133558859-8a1a89bc-a4aa-4b91-9f43-4b2ca6431b27.png)
+
 
 > Tela de Login do Instagram versão 2021 feito com HTML, CSS e Flexbox.
 
