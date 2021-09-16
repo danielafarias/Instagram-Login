@@ -16,7 +16,7 @@
 
 ### ❤️ Ajustes e melhorias
 
-O projeto ainda está finalizado:
+O projeto está finalizado:
 
 - [x] Projeto inicializado
 - [x] HTML
